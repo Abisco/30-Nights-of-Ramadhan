@@ -1,0 +1,10 @@
+[10-Jun-2015 01:10:21 America/Toronto] PHP Parse error:  syntax error, unexpected '<' in /home/abu/public_html/30Nights/insertform.php on line 11
+[10-Jun-2015 01:10:53 America/Toronto] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/abu/public_html/30Nights/insertform.php on line 15
+[10-Jun-2015 01:12:34 America/Toronto] PHP Parse error:  syntax error, unexpected 'mysql_query' (T_STRING) in /home/abu/public_html/30Nights/insertform.php on line 23
+[10-Jun-2015 01:14:17 America/Toronto] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'siwjee.com' (4) in /home/abu/public_html/30Nights/insertform.php on line 7
+[10-Jun-2015 01:14:21 America/Toronto] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/abu/public_html/30Nights/insertform.php on line 23
+[10-Jun-2015 03:05:37 America/Toronto] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING), expecting ',' or ';' in /home/abu/public_html/30Nights/insertform.php on line 24
+[10-Jun-2015 03:43:47 America/Toronto] PHP Fatal error:  Function name must be a string in /home/abu/public_html/30Nights/insertform.php on line 25
+[10-Jun-2015 03:44:39 America/Toronto] PHP Parse error:  syntax error, unexpected '{' in /home/abu/public_html/30Nights/insertform.php on line 25
+[12-Jun-2015 19:46:35 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'abu_admin'@'localhost' (using password: YES) in /home3/zedkay22/public_html/30nightsoframadan.com/insertform.php on line 17
+[13-Jun-2015 14:14:00 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'abu_admin'@'localhost' (using password: YES) in /home3/zedkay22/public_html/30nightsoframadan.com/insertform.php on line 17
